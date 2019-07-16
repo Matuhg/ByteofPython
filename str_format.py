@@ -5,7 +5,7 @@ name = 'Swaroop'
 print('{0} was {1} years old when he wrote this book'.format(name, age))
 print('Why is {0} playing with that python?'.format(name))
 
-#Example 2 - Same Output, but sloppier and more error-prone
+# Example 2 - Same Output, but sloppier and more error-prone
 print(name + ' is ' + str(age) + ' years old')
 
 # Numbers within the curly brackets are optional

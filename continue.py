@@ -7,4 +7,3 @@ while True:
         continue
     print('Input is of sufficient length')
     # Do other kinds of processing here...
-    
